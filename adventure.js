@@ -179,7 +179,7 @@ function handleChoice(nodeKey) {
 
 // Start the story
 function startStory() {
-    console.log("Welcome to the Interactive Storyteller!");
+    console.log("Welcome to your adventure!");
     handleChoice("start");
 }
 
